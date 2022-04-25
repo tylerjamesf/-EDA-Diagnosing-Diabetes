@@ -12,7 +12,7 @@ I will use EDA skills to help inspect, clean, and validate the data.
 
 ### Dataset
 
-**Note: ** This [dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) is from the National Institute of Diabetes and Digestive and Kidney Diseases.
+**Note:** This [dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) is from the National Institute of Diabetes and Digestive and Kidney Diseases.
 
 ### Data Overview
 
